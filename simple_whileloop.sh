@@ -7,3 +7,4 @@ do
     echo The counter is at $COUNTER
     let COUNTER=COUNTER+1
 done
+#new addition
